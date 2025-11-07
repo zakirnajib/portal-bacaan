@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Contoh Buku Melayu",
+    "bookType": "BAHASA MELAYU",
+    "url": "https://example.com/file-bm.pdf"
+  },
+  {
+    "title": "Sample English Book",
+    "bookType": "BAHASA INGGERIS",
+    "url": "https://example.com/file-bi.pdf"
+  }
+]
